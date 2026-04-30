@@ -1,75 +1,199 @@
-# Hi, I'm Enyetullah Rahimullah 👋
+<div align="center">
 
-I am a Computer Science student at Truman State University with a strong interest in cybersecurity, machine learning, biometric authentication, computer vision, and research-driven software development. I enjoy building systems that are not only functional, but also meaningful, measurable, and useful in real-world settings.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Enyetullah%20Rahimullah&fontSize=46&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Applied%20AI&descAlignY=60&animation=fadeIn" />
 
-My journey in computer science has been shaped by curiosity, discipline, and a strong desire to keep improving. I am the kind of person who likes to understand how things work beneath the surface, whether that means studying algorithms, debugging a difficult program, building a machine learning model, designing an authentication system, or turning a research idea into a working prototype.
+</div>
 
-I believe good software should solve real problems. That belief has pushed me toward projects involving healthcare technology, security, human-computer interaction, and intelligent systems. My goal is to continue growing as a researcher, developer, and problem solver while building systems that are reliable, practical, and impactful.
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&center=true&vCenter=true&width=1000&lines=Aspiring+AI+Engineer;Computer+Science+Student+at+Truman+State+University;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;LLMs+%7C+Applied+AI+%7C+Production-Ready+AI+Systems;Building+AI+that+is+practical%2C+measurable%2C+and+meaningful;Always+learning.+Always+building.+Always+improving.)](https://git.io/typing-svg)
 
-## About Me
+</div>
 
-- Computer Science senior at **Truman State University**
-- Expected graduation: **May 2026**
-- Incoming graduate student starting **Fall 2026**
-- Interested in **cybersecurity, biometric authentication, machine learning, fuzzing, software security, and resilient computing systems**
-- Strong background in research-style software projects
-- President's List student every semester at Truman State University
-- Teaching Assistant experience in Computer Science
-- Passionate about building software that connects technical depth with real-world usefulness
+<br>
 
-I am especially interested in systems that remain dependable under pressure. Whether it is a secure authentication system, a rehabilitation tool, or a machine learning prototype, I like working on projects where correctness, reliability, usability, and evaluation all matter.
+<div align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=Enyetullah&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Applied%20AI-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graduation-May%202026-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graduate%20Study-Fall%202026-red?style=for-the-badge" />
 
-## What Drives Me
-
-I am motivated by more than just writing code. I care about building things that have purpose.
-
-Some of the questions that guide my work are:
-
-- How can we make authentication systems more secure and adaptive?
-- How can machine learning be used responsibly in real-world applications?
-- How can computer vision support healthcare and rehabilitation?
-- How can software systems be tested more deeply and made more resilient?
-- How can research ideas become usable tools rather than just concepts?
-
-I enjoy projects where I can combine theory, implementation, experimentation, and reflection. I like the process of starting with an idea, building a prototype, testing it, finding weaknesses, improving it, and documenting what I learned.
+</div>
 
 ---
 
-## Research and Technical Interests
+# 👋 Hi, I’m Enyetullah Rahimullah
 
-### Cybersecurity and Secure Systems
-I am interested in authentication, anomaly detection, behavioral biometrics, software security testing, fuzzing, and resilient computing systems. I want to understand how systems fail and how they can be designed to resist attacks, errors, and unexpected behavior.
+I am a **Computer Science student at Truman State University** and an **aspiring AI Engineer** focused on building intelligent systems that solve real-world problems.
 
-### Machine Learning
-I enjoy using machine learning for classification, risk scoring, personalization, and pattern recognition. I am especially interested in applying ML to security and human-centered systems.
+My current focus is on **machine learning, deep learning, computer vision, large language models, data-driven applications, and production-ready AI systems**. I am especially interested in applied AI projects that combine strong software engineering with intelligent decision-making, measurable evaluation, and real-world usefulness.
 
-### Biometric Authentication
-One of my major interests is multimodal biometric authentication, especially systems that combine different signals such as facial features, typing behavior, mouse movement, and decision-level fusion.
-
-### Computer Vision
-I have worked with webcam-based hand tracking and real-time interaction using tools such as OpenCV and MediaPipe. I enjoy building systems where users can interact naturally through movement.
-
-### Healthcare and Rehabilitation Technology
-Through my ExerGame project, I have explored how software can support stroke rehabilitation by combining gameplay, movement tracking, and performance logging.
-
-### Research Software Engineering
-I care about reproducibility, clear documentation, experiment logging, and measurable results. I try to build projects that can be explained, tested, and improved over time.
+I enjoy building systems that are not only functional, but also meaningful, reliable, and practical. My goal is to keep growing into an AI engineer who can design, train, evaluate, deploy, and improve intelligent systems from end to end.
 
 ---
 
-## Featured Projects
+<div align="center">
 
-## 1. Multimodal Biometric Authentication Prototype
+## 🚀 My Current Focus: Becoming an AI Engineer
+
+</div>
+
+I am currently building my skills around the full AI engineering pipeline:
+
+```text
+Data → Preprocessing → Model Building → Evaluation → Deployment → Monitoring → Improvement
+```
+
+I want my work to show that I can do more than just train a model. I want to understand how to build complete AI systems that people can actually use.
+
+My AI engineering focus includes:
+
+- Machine learning model development
+- Deep learning fundamentals
+- Computer vision systems
+- Large language model applications
+- Retrieval-Augmented Generation systems
+- AI-powered web applications
+- Data preprocessing and feature engineering
+- Model evaluation and performance analysis
+- API development for AI systems
+- Deployment using tools like Flask, FastAPI, Docker, and cloud platforms
+- Building clean, documented, and reproducible AI projects
+
+---
+
+<div align="center">
+
+## 🧠 Who I Am
+
+</div>
+
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I am a hardworking and detail-oriented computer science student who enjoys learning deeply and building consistently. I like working on projects where I can connect theory with real implementation.
+
+I am especially drawn to AI because it combines many things I enjoy: mathematics, programming, data, problem-solving, experimentation, and real-world impact. I like the idea of building systems that can recognize patterns, support decisions, personalize experiences, and help solve difficult problems.
+
+I am still learning, but I am serious about improving. Every project I build is part of my journey toward becoming a stronger AI engineer, researcher, and software developer.
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🎯 Career Goal
+
+</div>
+
+My career goal is to become an **AI Engineer** who can build intelligent software systems from idea to deployment.
+
+I want to work on AI systems that are:
+
+- Useful in real-world environments
+- Built with clean and reliable software engineering practices
+- Measured with proper evaluation methods
+- Designed with users in mind
+- Secure, explainable, and responsible
+- Improved over time through data and feedback
+
+I am especially interested in applying AI to areas such as:
+
+| Area | Why It Interests Me |
+|---|---|
+| **Healthcare AI** | AI can support rehabilitation, diagnosis assistance, patient monitoring, and accessibility. |
+| **Cybersecurity AI** | AI can help detect suspicious behavior, anomalies, attacks, and authentication risks. |
+| **Computer Vision** | Vision systems can help machines understand human movement, objects, gestures, and environments. |
+| **LLM Applications** | Large language models can power intelligent assistants, document search, tutoring tools, and automation. |
+| **Human-Centered AI** | AI should be useful, understandable, and designed around real human needs. |
+
+---
+
+<div align="center">
+
+## 🛠️ AI Engineering Skill Set
+
+</div>
+
+### Programming Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
+
+### AI, Machine Learning, and Data
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Systems-FF1493?style=for-the-badge" />
+
+</div>
+
+### Python AI Libraries
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+
+</div>
+
+### AI Deployment and Software Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Featured AI and Research Projects
+
+</div>
+
+---
+
+## 🤖 1. AI-Powered Multimodal Biometric Authentication
+
+<div align="center">
+
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=105&color=gradient&text=AI-Powered%20Multimodal%20Biometric%20Authentication&fontSize=28&animation=fadeIn" />
+
+</div>
 
 **Repository:** [multimodal_biometric](https://github.com/Enyetullah/multimodal_biometric)
 
-This project is a Flask-based authentication prototype that combines multiple forms of biometric and behavioral evidence to make login decisions more adaptive and secure. Instead of depending only on a password, the system considers how a user types, how they move the mouse, and how their facial biometric score compares to expected behavior.
+This project is an AI-powered authentication prototype that combines multiple forms of biometric and behavioral evidence to make login decisions more adaptive and secure.
 
-### Main Features
+Instead of relying only on a password, the system analyzes different signals such as typing behavior, mouse movement, and facial biometric scoring. The goal is to explore how AI can help detect suspicious login attempts and improve authentication security.
+
+### Key Features
 
 - Password-based login system
 - Keystroke dynamics analysis
@@ -79,36 +203,54 @@ This project is a Flask-based authentication prototype that combines multiple fo
 - One-Class SVM anomaly detection
 - OTP step-up authentication for suspicious login attempts
 - FAR and FRR-style evaluation
-- Audit logging for security analysis
+- Audit logging for security review
 - Flask-based web interface
+
+### AI Engineering Concepts Used
+
+- Behavioral biometrics
+- Anomaly detection
+- Feature extraction
+- Risk scoring
+- Model-based decision support
+- Authentication intelligence
+- Evaluation using security-related metrics
 
 ### Why This Project Matters
 
-Traditional login systems often rely too heavily on static credentials. If a password is stolen, the system may not know that the person logging in is not the real user. This project explores a more adaptive approach by combining multiple signals and using behavioral patterns to detect suspicious activity.
+Traditional login systems often depend too heavily on static credentials. If a password is stolen, the system may not know whether the person logging in is actually the real user.
 
-This project connects strongly to my long-term research interest in cybersecurity, authentication, and resilient systems.
+This project explores a more intelligent authentication approach by combining multiple behavioral and biometric signals. It connects AI engineering with cybersecurity by using data-driven methods to support safer login decisions.
 
 ### Technologies Used
 
-- Python
-- Flask
-- OpenCV
-- scikit-learn
-- SQLite
-- HTML
-- CSS
-- Machine learning
-- Behavioral biometrics
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+</div>
 
 ---
 
-## 2. Exer-Game for Stroke Rehabilitation
+## 🧠 2. Computer Vision ExerGame for Stroke Rehabilitation
+
+<div align="center">
+
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=105&color=gradient&text=Computer%20Vision%20ExerGame%20for%20Stroke%20Rehabilitation&fontSize=27&animation=fadeIn" />
+
+</div>
 
 **Repository:** [Exer-Game-for-Stroke-Rehabilitation](https://github.com/Enyetullah/Exer-Game-for-Stroke-Rehabilitaion)
 
-This project is a webcam-based rehabilitation exergame designed to support upper-limb movement training after stroke. The system uses computer vision to track hand movement and turns rehabilitation exercises into an interactive game-like experience.
+This project is a webcam-based rehabilitation exergame that uses computer vision to track hand movement and support upper-limb movement training after stroke.
 
-### Main Features
+The system turns rehabilitation-style movement exercises into a game-based experience while also collecting performance data that can be used for analysis and improvement.
+
+### Key Features
 
 - Webcam-based hand tracking
 - MediaPipe and OpenCV integration
@@ -116,240 +258,357 @@ This project is a webcam-based rehabilitation exergame designed to support upper
 - Multiple movement modes
 - Difficulty levels
 - Session logging
-- Healthy-user benchmark comparison
 - Performance tracking
+- Healthy-user benchmark comparison
 - Optional machine learning personalization
 - Designed with rehabilitation and accessibility in mind
 
-### Why This Project Matters
+### AI Engineering Concepts Used
 
-Rehabilitation exercises can be repetitive and difficult to stay motivated for. This project explores how gameplay and computer vision can make rehabilitation more engaging while still collecting useful performance data.
-
-The goal is not only to make a game, but to create a system that can measure movement, track progress, and support more structured rehabilitation practice.
-
-### Technologies Used
-
-- Python
-- OpenCV
-- MediaPipe
-- PyGame
-- pandas
-- scikit-learn
 - Computer vision
+- Real-time hand tracking
 - Human-computer interaction
-
----
-
-## 3. Resume Website
-
-**Repository:** [Resume Website](https://github.com/Enyetullah/Resume_Website_V_1.0)
-
-This project is a personal portfolio website created to present my background, resume, technical projects, and academic experience in a more complete way than a traditional one-page resume.
-
-### Main Features
-
-- Personal homepage
-- Resume-style project presentation
-- Clean HTML and CSS structure
-- Academic and technical background sections
-- Portfolio-focused design
+- Movement data collection
+- Performance analysis
+- Personalized difficulty adjustment
+- Healthcare-focused AI system design
 
 ### Why This Project Matters
 
-A resume gives a short summary, but a portfolio gives a fuller picture. This project helps me present who I am, what I have built, and what I am working toward.
+Rehabilitation exercises can be repetitive and difficult to stay motivated for. This project explores how AI, computer vision, and game-based interaction can make rehabilitation more engaging while still collecting useful movement data.
+
+The goal is not only to build a game, but to create a system that can track movement, measure performance, support progress, and make rehabilitation more interactive.
 
 ### Technologies Used
 
-- HTML
-- CSS
-- Web design
-- Personal branding
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+
+</div>
 
 ---
 
-## Skills and Technologies
+## 📊 3. AI Login Risk Detection System
 
-### Programming Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=105&color=gradient&text=AI%20Login%20Risk%20Detection%20System&fontSize=30&animation=fadeIn" />
 
-### Web Development
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Repository:** Add your LoginSight or suspicious login detection repo link here.
 
-### Machine Learning and Data
+This project focuses on detecting suspicious login behavior using machine learning. The goal is to classify login attempts as normal or risky based on patterns in the data.
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### Key Features
 
-### Computer Vision and Interaction
+- Login event dataset
+- Feature engineering
+- Risk scoring
+- Binary classification
+- Suspicious login detection
+- Model evaluation
+- Prediction explanations
+- Security-focused AI application
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+### AI Engineering Concepts Used
 
-### Tools and Platforms
+- Supervised machine learning
+- Classification
+- Logistic regression or Random Forest
+- Feature preprocessing
+- Model evaluation
+- Confusion matrix analysis
+- Security risk scoring
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### Why This Project Matters
 
----
+Many security systems need to detect abnormal behavior quickly. A login risk detection system can help identify suspicious activity before it becomes a larger problem.
 
-## Academic and Research Identity
+This type of project shows my interest in combining AI with cybersecurity and practical decision-making systems.
 
-I see computer science as both a technical field and a problem-solving discipline. My academic work has helped me understand that strong projects require more than just working code. They require planning, testing, documentation, evaluation, and the ability to explain why the work matters.
+### Technologies Used
 
-I try to approach my projects with a research mindset:
+<div align="center">
 
-- Define the problem clearly
-- Build a working prototype
-- Collect meaningful data
-- Evaluate results carefully
-- Document the process
-- Reflect on limitations
-- Improve the system over time
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-1F6FEB?style=for-the-badge" />
 
-This mindset is especially important to me because I hope to continue into graduate-level research in Computer Science.
+</div>
 
 ---
 
-## Areas I Want to Keep Growing In
+<div align="center">
 
-I am always trying to improve. Some areas I am actively working on include:
+## 🧪 My AI Engineering Mindset
 
-- Advanced cybersecurity concepts
-- Fuzzing and software security testing
-- Secure software design
-- Machine learning evaluation
-- Deep learning fundamentals
+</div>
+
+I try to approach AI projects with a complete engineering mindset.
+
+```text
+Understand the Problem
+        ↓
+Collect or Prepare Data
+        ↓
+Clean and Explore the Data
+        ↓
+Build a Baseline Model
+        ↓
+Evaluate Results
+        ↓
+Improve the Model
+        ↓
+Deploy the System
+        ↓
+Document Everything
+```
+
+I believe strong AI work requires more than just getting high accuracy. A good AI system should be understandable, tested, reproducible, useful, and connected to a real problem.
+
+When I build AI projects, I try to ask:
+
+- What problem does this solve?
+- What data is being used?
+- What features matter?
+- What model is appropriate?
+- How is performance measured?
+- What are the limitations?
+- How can the system be improved?
+- Can someone else understand and run the project?
+
+---
+
+<div align="center">
+
+## 📌 What I Am Learning Right Now
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI and Machine Learning
+
+- Supervised learning
+- Unsupervised learning
+- Classification models
+- Regression models
+- Anomaly detection
+- Model evaluation
+- Feature engineering
+- Hyperparameter tuning
+
+</td>
+<td width="50%">
+
+### 🧠 Deep Learning
+
+- Neural networks
+- CNNs for computer vision
+- RNNs and sequence models
+- Transformers
+- PyTorch fundamentals
+- TensorFlow fundamentals
+- Training and validation workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Large Language Models
+
+- Prompt engineering
+- Retrieval-Augmented Generation
+- Embeddings
+- Vector databases
+- AI assistants
+- LangChain or LlamaIndex
+- Document question-answering systems
+
+</td>
+<td width="50%">
+
+### 🚀 AI Deployment
+
+- Flask APIs
+- FastAPI
+- Docker
+- Model serving
 - Cloud deployment
-- Full-stack application design
-- Research writing and publication
-- Cleaner GitHub documentation
-- Stronger reproducibility practices
+- GitHub documentation
+- Reproducible project structure
+- Production-ready AI apps
 
-I believe growth comes from consistent effort. I do not expect to know everything immediately, but I am willing to work hard, ask questions, learn from mistakes, and keep improving.
-
----
-
-## My Work Style
-
-I would describe myself as:
-
-### Hardworking
-I take my responsibilities seriously and try to give full effort to the work I do. Whether it is a class assignment, a research project, or a personal portfolio improvement, I like to complete things carefully.
-
-### Curious
-I enjoy learning how systems work. If I do not understand something, I try to break it down, search for patterns, test small examples, and build my understanding step by step.
-
-### Detail-Oriented
-I care about small details because small details often affect the quality of a project. I pay attention to documentation, structure, naming, evaluation, and clarity.
-
-### Research-Focused
-I like projects that involve more than surface-level implementation. I enjoy systems that require experimentation, data collection, analysis, and improvement.
-
-### Persistent
-When something does not work, I try not to give up quickly. Debugging, revising, and improving are part of the process.
-
-### Purpose-Driven
-I want my work to connect to real problems. Security, healthcare, accessibility, and resilient systems are important to me because they affect people directly.
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Goals
+<div align="center">
 
-- Graduate from Truman State University in May 2026
-- Begin graduate study in Computer Science in Fall 2026
-- Strengthen my background in cybersecurity and resilient computing
-- Improve my research software portfolio
-- Build cleaner, better-documented GitHub repositories
-- Continue learning about biometric authentication and software security
-- Develop stronger systems-level and machine learning skills
-- Contribute to research that has practical value
+## 🔥 AI Project Ideas I Am Building Toward
 
----
+</div>
 
-## What I Am Learning Right Now
+These are the kinds of projects I am interested in building and improving:
 
-I am currently focused on improving my knowledge in:
-
-- Data structures and algorithms
-- Cybersecurity fundamentals
-- Software security testing
-- Machine learning models and evaluation
-- SQL and database systems
-- Backend development
-- Research documentation
-- Git and GitHub best practices
-- Clean code organization
-
-I believe the best way to learn is by building, testing, failing, fixing, and trying again.
+| Project Idea | AI Area | Purpose |
+|---|---|---|
+| **AI Resume Analyzer** | NLP and LLMs | Compare resumes with job descriptions and suggest improvements. |
+| **Research Paper RAG Chatbot** | LLMs and Retrieval | Ask questions over PDFs, papers, and notes. |
+| **LoginSight AI** | ML and Cybersecurity | Detect suspicious login behavior using classification. |
+| **AI Fitness and Diet Generator** | LLMs and Personalization | Generate personalized workout and nutrition plans. |
+| **Computer Vision Gesture Game** | Computer Vision | Use webcam-based gestures to control interactive systems. |
+| **Medical Movement Tracker** | Healthcare AI | Track rehabilitation movements and measure progress. |
+| **AI Code Reviewer** | LLMs and Developer Tools | Analyze code and suggest improvements. |
 
 ---
 
-## GitHub Portfolio Focus
+<div align="center">
 
-My GitHub is a work in progress, but my goal is to make it a clear reflection of my technical growth.
+## 📊 GitHub Stats
 
-I want my repositories to show:
+</div>
 
-- Practical software development
-- Research-based thinking
-- Clear documentation
-- Real-world problem solving
-- Cybersecurity interest
-- Machine learning experience
-- Computer vision experience
-- Healthcare and accessibility awareness
-- Continuous improvement
+<div align="center">
 
-I am actively improving my repositories by adding better README files, cleaner structure, screenshots, demos, descriptions, topics, and reproducible instructions.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enyetullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enyetullah&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Enyetullah&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## Selected Project Themes
+<div align="center">
 
-| Theme | Description |
+## 🏆 GitHub Achievements
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Enyetullah&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Enyetullah&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧩 My Work Style
+
+</div>
+
+| Trait | How It Shows in My Work |
 |---|---|
-| Cybersecurity | Authentication, anomaly detection, behavioral biometrics, secure systems |
-| Machine Learning | Classification, risk scoring, personalization, evaluation |
-| Computer Vision | Webcam-based tracking, hand movement analysis, real-time interaction |
-| Healthcare Technology | Rehabilitation support, accessibility, movement-based systems |
-| Research Software | Logging, benchmarking, reproducibility, documentation |
-| Web Development | Flask apps, portfolio websites, user-facing prototypes |
+| **Hardworking** | I take my responsibilities seriously and try to give full effort to my projects, classes, and research work. |
+| **Curious** | I like understanding how systems work beneath the surface, especially in AI, security, and software engineering. |
+| **Persistent** | When something does not work, I debug, revise, test, and keep improving. |
+| **Detail-Oriented** | I care about documentation, structure, naming, evaluation, and clarity. |
+| **Research-Focused** | I enjoy projects that involve experimentation, data, results, and reflection. |
+| **Purpose-Driven** | I want my work to connect to real problems in AI, healthcare, cybersecurity, accessibility, and human-centered technology. |
+| **Growth-Minded** | I know I am still learning, but I am committed to improving step by step. |
 
 ---
 
-## Long-Term Vision
+<div align="center">
 
-My long-term goal is to become a strong computer scientist, researcher, and educator who builds systems that are useful, secure, and resilient.
+## 🎓 Academic Background
 
-I am especially interested in research that protects people, supports communities, and improves the reliability of technology in difficult situations. I want to contribute to systems that do not just work in ideal conditions, but continue to function when things become uncertain, stressful, or adversarial.
+</div>
 
-For me, computer science is not only about writing programs. It is about creating tools, understanding systems, solving problems, and building technology that people can trust.
+I am a Computer Science student at **Truman State University**, where I have built a strong foundation in programming, algorithms, data structures, software development, and research-based projects.
 
----
+My academic journey has helped me understand that strong technical work requires more than just writing code. It requires planning, testing, communication, documentation, and the ability to explain why the work matters.
 
-## Connect With Me
-
-- GitHub: [github.com/Enyetullah](https://github.com/Enyetullah)
-- LinkedIn: Add your LinkedIn link here
-- Portfolio Website: Add your portfolio website link here
-- Email: Add your professional email here
+I have also been recognized on the **President’s List every semester** at Truman State University, which reflects my consistency, discipline, and commitment to academic excellence.
 
 ---
 
-## Final Note
+<div align="center">
+
+## 🌍 Long-Term Vision
+
+</div>
+
+My long-term goal is to become an AI engineer and researcher who builds intelligent systems that are useful, reliable, and responsible.
+
+I want to contribute to AI systems that can help people in real-world situations. I am especially interested in AI for healthcare, cybersecurity, education, accessibility, and human-centered applications.
+
+For me, AI is not just about models. It is about building complete systems that can understand data, support decisions, solve problems, and improve over time.
+
+I want my GitHub to show that journey clearly: from learning the foundations to building applied AI systems that are practical, measurable, and meaningful.
+
+---
+
+<div align="center">
+
+## 📫 Connect With Me
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Enyetullah">
+<img src="https://img.shields.io/badge/GitHub-Enyetullah-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="ADD-YOUR-LINKEDIN-LINK-HERE">
+<img src="https://img.shields.io/badge/LinkedIn-Enyetullah%20Rahimullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ADD-YOUR-EMAIL-HERE">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="ADD-YOUR-PORTFOLIO-LINK-HERE">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF69B4?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Final Note
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Still+learning.;Still+building.;Still+improving.;Focused+on+AI+Engineering.;Every+project+is+part+of+the+journey." />
+
+</div>
 
 Thank you for visiting my GitHub profile.
 
-I am still learning, still building, and still improving. Every project here represents part of that journey. My goal is to keep growing as a developer and researcher while building software that is thoughtful, reliable, and meaningful.
+I am still learning, still building, and still improving. Every project here represents part of my journey toward becoming an AI engineer. My goal is to keep growing as a developer, researcher, and problem solver while building AI systems that are thoughtful, reliable, and meaningful.
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer" />
+
+</div>
