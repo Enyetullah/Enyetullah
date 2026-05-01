@@ -437,12 +437,8 @@ I want my GitHub to show that journey clearly: from learning the foundations to 
 <img src="https://img.shields.io/badge/GitHub-Enyetullah-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="ADD-YOUR-LINKEDIN-LINK-HERE">
+<a href="https://www.linkedin.com/in/enyetullah-rahimullah-9924b5273/">
 <img src="https://img.shields.io/badge/LinkedIn-Enyetullah%20Rahimullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:ADD-YOUR-EMAIL-HERE">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="ADD-YOUR-PORTFOLIO-LINK-HERE">
