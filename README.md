@@ -204,19 +204,21 @@ A webcam-based rehabilitation exergame that uses computer vision to track hand m
 
 ---
 
-## 🌐 Personal Resume Website
+## 🏋️ AI Gym
 
-**Repository:** [Resume Website](https://github.com/Enyetullah/Resume_Website_V_1.0)
+**Repository:** [AI Gym](https://github.com/Enyetullah/AI_Gym)
 
-A personal resume and portfolio website built to present my background, projects, academic experience, and technical interests in a clean web-based format.
+An AI-focused fitness and diet planning project that explores how intelligent software can generate personalized workout and nutrition suggestions. The project connects AI, user input, health goals, and recommendation-style logic to create a more practical and interactive fitness assistant.
 
-**Main areas:** HTML, CSS, web design, portfolio development, personal branding
+**Main areas:** applied AI, fitness technology, personalization, health-focused software, user-centered AI
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Web%20Design-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Applied%20AI-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fitness%20Tech-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Personalization-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Health%20AI-FF1493?style=for-the-badge" />
 
 </div>
 
