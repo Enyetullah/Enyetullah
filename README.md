@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=gradient&amp;text=Enyetullah%20Rahimullah&amp;fontSize=46&amp;fontAlignY=38&amp;desc=Computer%20Science%20Graduate%20%7C%20Software%20Developer%20%7C%20Researcher%20%7C%20Data%20and%20AI%20Systems&amp;descAlignY=60&amp;animation=fadeIn" />
@@ -141,7 +140,7 @@ My academic work helped me develop strong problem-solving skills, technical disc
 
 </div>
 
-I have served as a **Teaching Assistant for Data Structures**, where I supported students with programming concepts, debugging, lab work, assignments, and course-related problem solving.
+I served as a **Teaching Assistant for Data Structures**, where I supported students with programming concepts, debugging, lab work, assignments, and course-related problem solving.
 
 This experience strengthened my ability to:
 
@@ -386,10 +385,6 @@ I am especially interested in roles where I can contribute to:
 <img src="https://img.shields.io/badge/LinkedIn-Enyetullah%20Rahimullah-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
-<a href="ADD-YOUR-PORTFOLIO-LINK-HERE">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF69B4?style=for-the-badge" />
-</a>
-
 </div>
 
 ---
@@ -411,4 +406,3 @@ I am focused on building strong technical skills, completing meaningful projects
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;color=gradient&amp;section=footer" />
 
 </div>
-```
