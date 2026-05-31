@@ -1,12 +1,13 @@
+```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Enyetullah%20Rahimullah&fontSize=46&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20Researcher%20%7C%20Data%20%26%20AI%20Systems&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=gradient&amp;text=Enyetullah%20Rahimullah&amp;fontSize=46&amp;fontAlignY=38&amp;desc=Computer%20Science%20Graduate%20%7C%20Software%20Developer%20%7C%20Researcher%20%7C%20Data%20and%20AI%20Systems&amp;descAlignY=60&amp;animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+at+Truman+State+University;Software+Developer+%7C+Researcher+%7C+Problem+Solver;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+SQL;MySQL+%7C+PostgreSQL+%7C+Flask+%7C+OpenCV;Building+practical%2C+measurable%2C+real-world+systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&center=true&vCenter=true&width=1000&lines=Computer+Science+Graduate+from+Truman+State+University;Software+Developer+%7C+Researcher+%7C+Problem+Solver;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+SQL;MySQL+%7C+PostgreSQL+%7C+Flask+%7C+OpenCV;Building+practical%2C+measurable%2C+real-world+systems.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +15,10 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Enyetullah&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=Enyetullah&amp;style=for-the-badge&amp;color=blueviolet" />
 <img src="https://img.shields.io/badge/GPA-4.0%2F4.0-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/President's%20List-Every%20Semester-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Research-Computer%20Vision%20%26%20AI-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Research-Computer%20Vision%20and%20AI-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20PostgreSQL-red?style=for-the-badge" />
 
 </div>
@@ -26,11 +27,11 @@
 
 # 👋 Hi, I’m Enyetullah Rahimullah
 
-I am a **Computer Science student at Truman State University** with a strong academic record, hands-on research experience, and practical software development skills.
+I am a **Computer Science graduate from Truman State University** with a strong academic record, hands-on research experience, and practical software development skills.
 
-I enjoy building systems that combine **programming, data, databases, computer vision, machine learning, web applications, and clear documentation**. My work focuses on creating practical software that is not only functional, but also measurable, organized, and useful in real-world situations.
+I enjoy building systems that combine **programming, data, databases, computer vision, machine learning, web applications, and clear documentation**. My work focuses on creating practical software that is functional, measurable, organized, and useful in real-world situations.
 
-I have experience working with **Python, C++, JavaScript, HTML, CSS, SQL, MySQL, PostgreSQL, Flask, OpenCV, MediaPipe, scikit-learn, SQLite, Git, and GitHub**. I am especially interested in software systems that connect with areas such as healthcare technology, cybersecurity, authentication, data-driven applications, and human-computer interaction.
+I have experience working with **Python, C++, JavaScript, HTML, CSS, SQL, MySQL, PostgreSQL, Flask, OpenCV, MediaPipe, scikit-learn, SQLite, Git, and GitHub**. I am especially interested in software systems connected to healthcare technology, cybersecurity, authentication, data-driven applications, and human-computer interaction.
 
 ---
 
@@ -41,7 +42,7 @@ I have experience working with **Python, C++, JavaScript, HTML, CSS, SQL, MySQL,
 </div>
 
 - Strong foundation in **computer science, programming, algorithms, and data structures**
-- Experience building **full-stack and data-driven applications**
+- Experience building **software applications, research prototypes, and data-driven systems**
 - Knowledge of **SQL, MySQL, PostgreSQL, and SQLite**
 - Hands-on experience with **Python, Flask, OpenCV, MediaPipe, and scikit-learn**
 - Research experience in **computer vision, rehabilitation technology, and biometric authentication**
@@ -63,10 +64,10 @@ I have experience working with **Python, C++, JavaScript, HTML, CSS, SQL, MySQL,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
 
 </div>
 
@@ -74,9 +75,9 @@ I have experience working with **Python, C++, JavaScript, HTML, CSS, SQL, MySQL,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" />
 
 </div>
 
@@ -84,9 +85,9 @@ I have experience working with **Python, C++, JavaScript, HTML, CSS, SQL, MySQL,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
 
 </div>
 
@@ -98,22 +99,23 @@ I have experience working with **Python, C++, JavaScript, HTML, CSS, SQL, MySQL,
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Analysis-FF1493?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Behavioral%20Biometrics-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Authentication%20Systems-2E8B57?style=for-the-badge" />
 
 </div>
 
-### Libraries and Tools
+### Libraries, Frameworks, and Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" />
 
 </div>
 
@@ -125,9 +127,11 @@ I have experience working with **Python, C++, JavaScript, HTML, CSS, SQL, MySQL,
 
 </div>
 
-I am studying **Computer Science at Truman State University**, where I have built a strong foundation in programming, data structures, algorithms, computer systems, software development, and research-based projects.
+I graduated from **Truman State University** with a degree in **Computer Science**.
 
-My academic work has helped me develop strong problem-solving skills, technical discipline, and the ability to approach complex problems step by step. I have maintained a **4.0 GPA** and have been recognized on the **President’s List every semester**, reflecting my consistency, work ethic, and commitment to academic excellence.
+During my time at Truman State University, I built a strong foundation in programming, data structures, algorithms, computer systems, software development, databases, and research-based projects.
+
+My academic work helped me develop strong problem-solving skills, technical discipline, and the ability to approach complex problems step by step. I maintained a **4.0 GPA** and was recognized on the **President’s List every semester**, reflecting my consistency, work ethic, and commitment to academic excellence.
 
 ---
 
@@ -188,11 +192,11 @@ A Flask-based research prototype for multimodal authentication using simulated p
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
 
 </div>
 
@@ -208,9 +212,9 @@ A webcam-based rehabilitation exergame that uses computer vision to track hand m
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
 
@@ -228,7 +232,7 @@ A fitness and diet planning project that explores how software can generate pers
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Applied%20Software-00A67E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Fitness%20Tech-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Personalization-8A2BE2?style=for-the-badge" />
@@ -329,41 +333,17 @@ A fitness and diet planning project that explores how software can generate pers
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 Technical Snapshot
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enyetullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enyetullah&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Enyetullah&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Enyetullah&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Enyetullah&theme=tokyo-night&hide_border=true" />
+<img src="https://img.shields.io/badge/Code-Python%20%7C%20C%2B%2B%20%7C%20JavaScript-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20Flask-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Databases-SQL%20%7C%20MySQL%20%7C%20PostgreSQL%20%7C%20SQLite-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VS%20Code-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20and%20Data-scikit--learn%20%7C%20OpenCV%20%7C%20MediaPipe-purple?style=for-the-badge" />
 
 </div>
 
@@ -399,11 +379,11 @@ I am especially interested in roles where I can contribute to:
 <div align="center">
 
 <a href="https://github.com/Enyetullah">
-<img src="https://img.shields.io/badge/GitHub-Enyetullah-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Enyetullah-181717?style=for-the-badge&amp;logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/enyetullah-rahimullah-9924b5273/">
-<img src="https://img.shields.io/badge/LinkedIn-Enyetullah%20Rahimullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Enyetullah%20Rahimullah-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <a href="ADD-YOUR-PORTFOLIO-LINK-HERE">
@@ -418,7 +398,7 @@ I am especially interested in roles where I can contribute to:
 
 ## ✨ Final Note
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Student.;Software+Developer.;Researcher.;Problem+Solver.;Building+practical+systems+with+real-world+purpose." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Computer+Science+Graduate.;Software+Developer.;Researcher.;Problem+Solver.;Building+practical+systems+with+real-world+purpose." />
 
 </div>
 
@@ -428,6 +408,7 @@ I am focused on building strong technical skills, completing meaningful projects
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;color=gradient&amp;section=footer" />
 
 </div>
+```
