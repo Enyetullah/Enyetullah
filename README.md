@@ -143,7 +143,6 @@ Developed a low-cost, webcam-based upper-limb rehabilitation system using **Pyth
 ## 🔐 Multimodal Machine-Learning Prototype
 
 **Repository:** [multimodal_biometric](https://github.com/Enyetullah/multimodal_biometric)  
-**Demo:** [Watch on YouTube](https://youtu.be/6AVApKvunD0)
 
 Built a Flask-based prototype combining **facial information and behavioral typing signals** using machine learning and weighted decision-level fusion.
 
